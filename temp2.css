@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    
+    font-family: 'Courier New', Courier, monospace;
+
+}
+header {
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    
+}
